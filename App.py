@@ -196,7 +196,7 @@ if c:
     if not place:
         weather_detail(place1,unit1,hr1,m1)
 
-st.write('### Created  by - Sarthak Bhatore ✨')
+st.write('## Created  by - Sarthak Bhatore ✨')
 st.info('My passion lies in drawing insights from data and putting them to use.')
 column1, column2 = st.columns(2)
 Linkedin='[My Linkedin](https://www.linkedin.com/in/sarthak-bhatore-004aaa1ba/)'
