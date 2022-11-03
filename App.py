@@ -158,6 +158,7 @@ unit1=st.selectbox("Select Temperature Unit for tomorrow's forecast",("celsius",
 
 hr1=st.slider("Hour :",min_value=0,max_value=23,step=1)
 m1=st.slider("Minute :",min_value=0,max_value=59,step=5)
+st.write(" ⚠️ Refresh page if results not obtained")
 c=st.button("SUBMIT INFO ")    
     
 
